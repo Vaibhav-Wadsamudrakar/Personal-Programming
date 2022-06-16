@@ -23,7 +23,7 @@ int main() {
     
      int arr[] = {10, 20, 30, 40, 50, 60, 70}, n = 7;
 
-	int x = 25;
+	int x = 25;//x is the element to be searched
 	
 	cout<<bSearch(arr, 0, n - 1, x);//(arr,low,high,x)
 	return 0;
