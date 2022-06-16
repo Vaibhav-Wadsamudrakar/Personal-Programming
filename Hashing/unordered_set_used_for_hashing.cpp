@@ -1,5 +1,7 @@
 #include <bits/stdc++.h> 
 using namespace std; 
+/* unoerdered set doesn't allow duplicate elements so all elements are present only once.
+Even if we try to save an element twice if it is already present then it won't be saved.*/
 
 int main(){
     
